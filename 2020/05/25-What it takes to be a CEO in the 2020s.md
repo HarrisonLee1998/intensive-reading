@@ -129,3 +129,57 @@
 
 
 
+# Paragraph 4
+
+> This tiny elite faces big changes, starting with how they control their firms. Ever since Alfred Sloan ==shook up== General Motors in the 1920s, the main tool that CEOs have ==wielded== is the control of physical investment, a process known as capital allocation. The firm and the CEO have had clear jurisdiction over a defined set of assets, staff, products and ==proprietary== information. Think of “Neutron” Jack Welch, who ran General Electric between 1981 and 2001, opening and shutting plants, buying and selling ==divisions==, and ==ruthlessly== controlling the flow of capital.
+
+**shook up**
+
+​	**shook**为**shake**的过去式
+
+​	v.
+
+​	**shake sth/up** 彻底调整，重组机构或行业
+
+​	**shake sb/up** 震动，激励，使震动不安
+
+**wielded**
+
+​	其原型为**wield**
+
+​	v.
+
+	1. 拥有，运用，行使（权力等）
+ 	2. 使用（武器，工具等）
+
+**proprietary**
+
+​	adj.
+
+	1. 专卖的，专营的
+ 	2. 所有权的
+
+**division**
+
+​	n. 部门
+
+**ruthlessly**
+
+​	adv. 无情地，残忍地
+
+​	**ruthless** 
+
+​	adj. 无情的，残忍的
+
+
+
+# Paragraph 5
+
+>  Today, however, 32% of firms in the s&p 500 of big American firms invest more in intangible assets than physical ones, and 61% of the market value of the s&p 500 sits in intangibles such as research and development (r&d), customers linked by network effects, brands and data. The link between the CEO authorising investment and getting results is unpredictable and opaque.	
+
+
+
+# Paragraph 6
+
+> Meanwhile the boundaries of the firm, and the CEO’s authority, are blurring. Uber’s 4m drivers are not employees and neither are the millions of workers in Apple’s supply chain, but they are mission-critical. Big firms spent $32bn last year on cloud services from a few powerful vendors. Factories and offices have billions of sensors pumping sensitive information to suppliers and customers. Middle-managers talk business on social media.
+
