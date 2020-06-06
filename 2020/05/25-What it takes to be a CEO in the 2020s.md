@@ -183,3 +183,119 @@
 
 > Meanwhile the boundaries of the firm, and the CEO’s authority, are blurring. Uber’s 4m drivers are not employees and neither are the millions of workers in Apple’s supply chain, but they are mission-critical. Big firms spent $32bn last year on cloud services from a few powerful vendors. Factories and offices have billions of sensors pumping sensitive information to suppliers and customers. Middle-managers talk business on social media.
 
+
+
+
+
+# Paragraph 7
+
+> Even as CEOs’ authority is being redefined, a shift is under way in where firms operate. Generations of bosses have obeyed the call to “go global”. But in the past decade the profitability of multinational investment abroad has ==soured==, so that returns on capital are a ==puny== 7%. Trade ==tensions== mean that CEOs face the prospect of ==repatriating== activity or redesigning supply chains. Most have only just begun to ==grapple== with this.
+
+**soured**
+
+​	adj.
+
+​	酸的，阴郁的；这里引申为**国外投资的盈利能力下降了**
+
+**puny**
+
+​	adj.
+
+​	弱小的，不起眼的
+
+**tension**
+
+​	n. 紧张局势，冲突；拉伸，张力
+
+**repatriate**
+
+​	v.
+
+​	~ sb: 某人被遣送回国
+
+​	~ sth: 寄钱回国，将利润调回本国
+
+**grapple**
+
+​	v. 扭打，搏斗
+
+​	
+
+# Paragraph 8
+
+> The last change is ==over== the purpose of the firm. The ==orthodoxy== has been that they operate in the interests of their owners. But pressure is coming from above, as politicians such as Bernie Sanders and Elizabeth Warren call on CEOs to ==favour== staff, suppliers and clients more; and from below, as both customers and young workers demand that firms take a stand on social issues. Alphabet has faced ==rolling== staff protests.
+
+**over**
+
+​	prep. 关于；在本句中的意思为：**最近的改变是公司的目的。**
+
+**orthodoxy**
+
+​	n. 正统观念，普遍接受的概念
+
+**favour**
+
+​	v. 特别照顾，偏袒
+
+**rolling**
+
+​	adj. 周而复始的
+
+
+
+# Paragraph 9
+
+> CEOs are experimenting, with ==underwhelming== results. Reed Hastings at Netflix ==preaches== ==radical== ==autonomy==. Staff decide their ==expenses== and do without formal ==performance reviews==, an idea that at most firms would cause chaos. Others ==assert authority== by ==reviving== the 1980s ==cult== of celebrity. Sometimes it works: Satya Nadella has rebuilt Microsoft using “==empathetic== leadership”. Often it does not. MR Neumann’s ==stint== as WeWork’s party-animal-in-chief ended in ==fiasco==. Jeff Immelt, the ex-boss of General Electric, has been accused of “success theatre” by making himself a jet-setting star as its cashflow fell by 36%.
+
+**underwhelming **
+
+​	adj. 平庸的，索然无味的；本句译为：**CEO们正在进行实验，但是收效甚微。**
+
+**preach**
+
+​	v. 宣传，宣扬
+
+**radical**
+
+​	adj. 彻底的，完全的；激进的
+
+**autonomy**
+
+​	n. 自治，自主权
+
+**expenses**
+
+​	n. (plural) （向雇主申请的）业务花销
+
+**performance review**
+
+​	绩效考核
+
+**assert**
+
+​	v. 维护自己的权力（权威），常见表达为：**assert authority**
+
+**revive**
+
+​	v. 苏醒，复活
+
+**cult**
+
+​	n. 狂热，崇拜
+
+**empathetic**
+
+​	adj. 等同于**empathic**， 同感的
+
+**stint**
+
+​	n. 工作期限
+
+​	v. 节省，吝啬
+
+**fiasco**
+
+​	n. 惨败
+
+
+
