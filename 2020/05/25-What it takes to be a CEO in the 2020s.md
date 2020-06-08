@@ -299,3 +299,81 @@
 
 
 
+# Paragraph 10
+
+>  Keen to show they are engaged, bosses are publicly ==weighing in== on issues like ==abortion== and gun control. The danger is ==hypocrisy==. Goldman Sachs’s boss wants to “accelerate economic progress for all”, but it faces a huge fine for its role in the 1mdb corruption scandal in Malaysia. In August 181 American CEOs ==pledged to== serve staff, suppliers, communities and customers as well as shareholders. This is a promise, made during a long economic expansion, that they will not be able to keep. In a dynamic economy some firms have to shrink and ==shed== workers. It is silly to pretend there are no ==trade-offs==. Higher wages and more cash for suppliers mean lower profits or higher prices for consumers.
+
+**weight in (with sth)**
+
+​	(在讨论，辩论中)发表有分量的意见
+
+**abortion**
+
+​	n. 流产，堕胎
+
+**hypocrisy**
+
+​	n. 伪善，虚伪
+
+**pledge**
+
+​	v. 保证，给予；正式承诺
+
+​	pledge sth to sb/sth
+
+​	pledge to do sth
+
+**shed**
+
+​	v. 去除，摆脱。get rid of
+
+**trade-off**
+
+​	n. 权衡
+
+# Paragraph 11
+
+>The very model of a modern CEO
+>
+>What, ==then==, does it take to be a corporate leader in the 2020s? Every firm is different, but those hiring a CEO, or aspiring to be one, should ==prize== a few qualities. Mastering the ==tricky==, creative and more collaborative game of allocating intangible capital is essential. A CEO must be able to ==marshal== the data flowing between companies and their counterparties, redistributing who earns profits and bears risk. Some firms are ahead—Amazon monitors 500 measurable goals—but most CEOs are still stuck clearing their email inboxes at midnight. Last, bosses need to be clear that a firm should be run in the long-term interest of its owners. That does not mean being ==crusty== or ==myopic==. Any ==sensible== business should ==face up== to the risks from climate change, for example. It does mean avoiding mission creep. CEOs in the 2020s will have their ==hands full== with their own company, so forget trying to run the world too. And if, in between meetings, you find time to smoke ==weed== at 40,000 feet, don’t get caught.
+
+**then**
+
+​	adv. 那么，在本句中做插入语
+
+**prize**
+
+​	v. 看重，重视
+
+**tricky**
+
+​	adj. 棘手的，狡猾的
+
+**marshal**
+
+​	v. 控制人群；组织；维持秩序
+
+**crusty**
+
+​	adj. 执拗的
+
+**myopic**
+
+​	adj. 目光短浅的
+
+**sensible**
+
+​	adj. 明智的，合理的
+
+**face up**
+
+​	勇于面对，敢于正视
+
+**hand full**
+
+​	忙的不可开交
+
+**weed**
+
+​	n. 杂草，大麻烟
+
