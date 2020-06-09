@@ -149,14 +149,16 @@
 
 ​	v.
 
-	1. 拥有，运用，行使（权力等）
+1. 拥有，运用，行使（权力等）
+
  	2. 使用（武器，工具等）
 
 **proprietary**
 
 ​	adj.
 
-	1. 专卖的，专营的
+1. 专卖的，专营的
+
  	2. 所有权的
 
 **division**
@@ -175,9 +177,11 @@
 
 # Paragraph 5
 
->  Today, however, 32% of firms in the s&p 500 of big American firms invest more in intangible assets than physical ones, and 61% of the market value of the s&p 500 sits in intangibles such as research and development (r&d), customers linked by network effects, brands and data. The link between the CEO authorising investment and getting results is unpredictable and opaque.	
+>  Today, however, 32% of firms in the s&p 500 of big American firms invest more in intangible assets than physical ones, and 61% of the market value of the s&p 500 sits in intangibles such as research and development (r&d), customers linked by network effects, brands and data. The link between the CEO ==authorizing== investment and getting results is unpredictable and opaque.	
 
+**authorize**
 
+​	v. 授权
 
 # Paragraph 6
 
